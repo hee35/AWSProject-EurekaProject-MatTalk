@@ -1,4 +1,4 @@
-# MatTalk
+# MatTalk - [Notion Portfolio](https://kimheejoo.notion.site/eureka-project)
 
 - `main.py`: Backend server (connected to Bedrock Claude 3.5 Sonnet)  
 - `index.html`: Landing page (Start)  
